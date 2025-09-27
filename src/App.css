@@ -1,0 +1,17 @@
+.counter-card {
+    border: solid;
+    border-radius: 5px;
+    margin: 16px 8px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    box-shadow: 10px 5px 5px chartreuse;
+}
+
+.counter-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.counter-button-groups {
+    display: flex;
+}
